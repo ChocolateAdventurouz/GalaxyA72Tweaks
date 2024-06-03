@@ -10,7 +10,7 @@ OneUI 6's stock camera app seems to crash on any custom camera-features.xml file
 ## Regarding Slow Animations
 A72 is a midrange phone (unable to handle ui stuff like real-time live blur properly), and that's one of the reasons Samsung kept away these features, so if you have a really serious problem with it, just don't use that module or change your phone.
 
-### Features
+## Features
 - Disabled DRC (compresses sound awfully)
 - Real-time live blur
 - Japanese Boot Animation
