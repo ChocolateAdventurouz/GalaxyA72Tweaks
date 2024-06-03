@@ -12,6 +12,8 @@ A72 is a midrange phone (unable to handle ui stuff like real-time live blur prop
 
 ## Features
 - Disabled DRC (compresses sound awfully)
+- Full Edge Lighting
+- Voice Recorder "Interview Mode"
 - Real-time live blur
 - Japanese Boot Animation
 - [CSC Mods](https://github.com/UltraHQ/A72-CSC-Mods) by [@UltraHQ](https://github.com/UltraHQ)
